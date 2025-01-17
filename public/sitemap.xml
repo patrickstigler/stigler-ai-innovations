@@ -2,32 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/services/innovationsmanagement/</loc>
+    <loc>uild/services/innovationsmanagement/</loc>
     <lastmod>2025-01-10T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/services/technologieintegration/</loc>
+    <loc>uild/services/kuenstlicheintelligenz/</loc>
     <lastmod>2025-01-10T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/services/workflow-optimierung/</loc>
+    <loc>uild/services/projektberatung/</loc>
     <lastmod>2025-01-10T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/services/</loc>
+    <loc>uild/services/prozessoptimierung/</loc>
     <lastmod>2025-01-10T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>uild/services/technologieintegration/</loc>
     <lastmod>2025-01-10T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>uild/services/workflow-optimierung/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>uild/services/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>uild/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>uild/contact/</loc>
     <lastmod>2024-10-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>uild/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/impressum/</loc>
+    <loc>uild/impressum/</loc>
   </url><url>
-    <loc>//localhost:1313/404/</loc>
+    <loc>uild/404/</loc>
   </url><url>
-    <loc>//localhost:1313/profil/</loc>
+    <loc>uild/profil/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>uild/tags/</loc>
   </url>
 </urlset>
