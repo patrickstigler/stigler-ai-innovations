@@ -25,11 +25,11 @@ title = "Stigler AI Innovations"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Stigler AI Innovations"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
-    google_fonts = 'https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap'
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Orbitron:wght@300;600&display=swap'
     heading = "Orbitron"
     base = "Fira Sans"
 
@@ -61,7 +61,6 @@ title = "Stigler AI Innovations"
     url = "/profil/"
     weight = 2
 
-
   [[menu.main]]
     name = "Kontakt"
     url = "/contact/"
@@ -70,7 +69,6 @@ title = "Stigler AI Innovations"
   [[menu.main]]
     url = "https://linkedin.com/in/patrickstigler/"
     name = "LinkedIn"
-    pre = "<img src=\"images/social/linkedin_brown.svg\" style=\"height: 20px; width: 20px;\" alt=\"LinkedIn\">"
     weight = 4
 
   # Footer Menu
