@@ -29,9 +29,9 @@ title = "Stigler AI Innovations"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
-    google_fonts = 'https://fonts.googleapis.com/css2?family=Orbitron:wght@300;600&display=swap'
-    heading = "Orbitron"
-    base = "Fira Sans"
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Orbitron:wght@300;700'
+    heading = "sans-serif"
+    base = "sans-serif"
 
   [params.colors]
     primary = "#b79469"

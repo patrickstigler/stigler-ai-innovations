@@ -4,7 +4,6 @@ meta_title: 'Stigler AI Innovations'
 description: "Innovative Lösungen, Wachstum vorantreiben"
 intro_image: "images/illustrations/teaching.svg"
 intro_image_absolute: false
-intro_image_absolute_offset: "auto auto -100px -80px"
 intro_image_hide_on_mobile: true
 ---
 

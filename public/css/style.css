@@ -73,7 +73,7 @@
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --bs-body-font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system;
+  --bs-body-font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system;
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
@@ -6140,7 +6140,7 @@ progress {
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --bs-body-font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system;
+  --bs-body-font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system;
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
@@ -12739,12 +12739,12 @@ a {
 p {
   line-height: 26px;
   color: #5C5A5A;
-  font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system;
+  font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system;
   margin-bottom: 20px; }
 
 h1 {
   font-size: 24px;
-  font-family: Orbitron, serif, -apple-system;
+  font-family: sans-serif, serif, -apple-system;
   line-height: 1.2;
   margin-bottom: 20px; }
   @media (min-width: 768px) {
@@ -12753,7 +12753,7 @@ h1 {
       line-height: 1.2; } }
 h2 {
   font-size: 20px;
-  font-family: Orbitron, serif, -apple-system;
+  font-family: sans-serif, serif, -apple-system;
   line-height: 1.4;
   margin-bottom: 10px; }
   @media (min-width: 768px) {
@@ -12826,7 +12826,7 @@ ol {
   .footer .footer-title {
     color: #ffffff;
     font-size: 1.3rem;
-    font-family: Orbitron, serif, -apple-system;
+    font-family: sans-serif, serif, -apple-system;
     font-weight: bold;
     margin-bottom: 10px; }
     @media (min-width: 576px) {
@@ -12976,7 +12976,7 @@ ol {
         display: none; } }
   .main-menu-mobile ul {
     font-size: 30px;
-    font-family: Orbitron, serif, -apple-system;
+    font-family: sans-serif, serif, -apple-system;
     text-align: center;
     list-style: none;
     padding: 0;
@@ -13117,12 +13117,12 @@ ol {
   font-style: italic; }
 
 .content p {
-  font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system;
+  font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system;
   line-height: 1.56;
   color: #5C5A5A; }
 
 .content h1 {
-  font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system;
+  font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system;
   font-size: 34px;
   line-height: 1.26;
   font-weight: normal;
@@ -13130,14 +13130,14 @@ ol {
   margin-bottom: 20px; }
 
 .content h2 {
-  font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system;
+  font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system;
   font-size: 26px;
   font-weight: normal;
   line-height: 1.4;
   margin-top: 30px; }
 
 .content h3 {
-  font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system;
+  font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system;
   font-size: 20px;
   line-height: 1.4;
   font-weight: normal;
@@ -13219,7 +13219,7 @@ ol {
     line-height: 1.4;
     margin-bottom: 30px;
     color: #2f2f41;
-    font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system; }
+    font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system; }
   .intro p {
     font-size: 1.2rem;
     font-weight: light;
@@ -13390,7 +13390,7 @@ ol {
 body {
   font-size: 16px;
   line-height: 1.2;
-  font-family: Fira Sans, Helvetica, Arial, sans-serif, -apple-system; }
+  font-family: sans-serif, Helvetica, Arial, sans-serif, -apple-system; }
   @media (min-width: 768px) {
     body {
       font-size: 16px;
