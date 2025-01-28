@@ -2,11 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stigler AI Innovations</title>
+<<<<<<< HEAD
     <link>uild/</link>
+=======
+    <link>//localhost:1313/</link>
+>>>>>>> dev
     <description>Recent content on Stigler AI Innovations</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 10 Jan 2025 12:33:46 +1000</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="uild/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Innovationsmanagement</title>
@@ -56,6 +61,92 @@
       <pubDate>Tue, 22 Oct 2024 17:01:34 +0700</pubDate>
       <guid>uild/contact/</guid>
       <description>&lt;p&gt;Kontaktieren Sie mich gerne&lt;/p&gt;&#xA;&lt;p&gt;Weitere Infos auf:&lt;br&gt;&#xA;&lt;a href=&#34;https://linkedin.com/in/patrickstigler&#34;&gt;LinkedIn: Patrick Stigler&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://stigler.de/&#34;&gt;stigler.de&lt;/a&gt;&lt;/p&gt;</description>
+=======
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Innovationsmanagement und Projektberatung</title>
+      <link>//localhost:1313/services/innovationsmanagement/</link>
+      <pubDate>Fri, 10 Jan 2025 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/innovationsmanagement/</guid>
+      <description>&lt;p&gt;Ich begleite Organisationen bei der Entwicklung und Umsetzung innovativer Projekte, einschließlich der Einführung von Low-Code-Plattformen und der Organisation von Hackathons. Mein Fokus liegt darauf, kreative Lösungen zu fördern und nachhaltige Innovationen zu implementieren.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technologieintegration und Prozessoptimierung</title>
+      <link>//localhost:1313/services/technologieintegration/</link>
+      <pubDate>Fri, 10 Jan 2025 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/technologieintegration/</guid>
+      <description>&lt;p&gt;Ich unterstütze Unternehmen dabei, fortschrittliche Technologien effektiv zu integrieren, um Geschäftsprozesse zu optimieren und die betriebliche Effizienz zu steigern. Durch maßgeschneiderte Strategien helfe ich, technologische Potenziale voll auszuschöpfen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workflow-Optimierung und Datenvirtualisierung</title>
+      <link>//localhost:1313/services/workflow-optimierung/</link>
+      <pubDate>Fri, 10 Jan 2025 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/workflow-optimierung/</guid>
+      <description>&lt;p&gt;Ich biete Beratung zur Einführung von Datenvirtualisierungstechniken an, die die Effizienz von Workflows und Entscheidungsprozessen verbessern. Durch die Optimierung des Datenmanagements unterstütze ich Unternehmen dabei, fundierte Entscheidungen zu treffen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Tue, 22 Oct 2024 17:01:34 +0700</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;h3 id=&#34;kontaktieren-sie-mich-gerne&#34;&gt;Kontaktieren Sie mich gerne&lt;/h3&gt;&#xA;&lt;h3 id=&#34;weitere-infos-auf&#34;&gt;Weitere Infos auf:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://linkedin.com/in/patrickstigler&#34;&gt;LinkedIn: Patrick Stigler&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stigler.de/&#34;&gt;stigler.de&lt;/a&gt;&lt;/p&gt;</description>
+>>>>>>> dev
+    </item>
+    <item>
+      <title>Umsetzung und Inbetriebnahme des Simulations-Clusters zur Optimierung von Rechenprozessen</title>
+      <link>//localhost:1313/success_stories/simulations_cluster/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/simulations_cluster/</guid>
+      <description>Durch die erfolgreiche Einführung des Simulations-Clusters wurde die Ressourcennutzung in den Entwicklungsabteilungen optimiert, Hardware entlastet, Rechenzeiten verkürzt und Kosten gesenkt.</description>
+    </item>
+    <item>
+      <title>Low-Code-Plattform – Effizienzsteigerung für Entwickler und Citizen Developer</title>
+      <link>//localhost:1313/success_stories/low_code/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/low_code/</guid>
+      <description>Durch eine zukunftssichere Low-Code-Plattform konnten sowohl professionelle Entwickler als auch Citizen Developer effizient Applikationen erstellen. Dies führte zu einer Steigerung der Entwicklungsproduktivität um 80% und jährlichen Einsparungen von ca. 4,2 Millionen Euro.</description>
+    </item>
+    <item>
+      <title>Optimierte IoT-Überwachung durch LoRaWAN – Facility Management Innovation</title>
+      <link>//localhost:1313/success_stories/lora_wan/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/lora_wan/</guid>
+      <description>Dank der Implementierung des LoRaWAN-Standards für die Überwachung kritischer Umgebungsvariablen an verschiedenen Standorten konnte die Effizienz erheblich gesteigert, der Wartungsaufwand minimiert und ein zukunftssicheres System für IoT-Anwendungen geschaffen werden.</description>
+    </item>
+    <item>
+      <title>Optimierung des Bestandsmanagements</title>
+      <link>//localhost:1313/success_stories/optimierung_bestandmanagement/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/optimierung_bestandmanagement/</guid>
+      <description>Optimierung des Bestandsmanagements: Eine Fallstudie zur Effizienzsteigerung</description>
+    </item>
+    <item>
+      <title>Planung und Expansion eines Innovationslabors für Prototyping, VR und AR</title>
+      <link>//localhost:1313/success_stories/innovation_lab/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/innovation_lab/</guid>
+      <description>Durch die Gründung und Expansion eines Makerspaces, der umfassende Prototyping-, VR- und AR-Möglichkeiten bietet, hat unsere Organisation nicht nur bedeutende Innovationen gefördert, sondern sich auch als internationaler Vorreiter in der technologischen Entwicklung etabliert.</description>
+    </item>
+    <item>
+      <title>Konzeption und Durchführung einer Microsoft Hololens Hackathon-Challenge für Fahrzeugdiagnose</title>
+      <link>//localhost:1313/success_stories/hololens_challange/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/hololens_challange/</guid>
+      <description>Durch die Entwicklung und Leitung einer Hackathon-Challenge zur Nutzung der Microsoft Hololens in der Fahrzeugdiagnose wurde gezeigt, wie innovative Technologien wie Augmented Reality in den Alltag integriert und die Effizienz bei der Fehlerdiagnose gesteigert werden können.</description>
+    </item>
+    <item>
+      <title>Implementierung eines Shopfloor-Visualisierungssystems für Live-Maschinendaten</title>
+      <link>//localhost:1313/success_stories/shopfloor_visualisierungssystem/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/shopfloor_visualisierungssystem/</guid>
+      <description>Durch die Implementierung eines Shopfloor-Visualisierungssystems zur Echtzeit-Darstellung von Maschinen und Produktionsparametern wurde die Basis für effizientere Prozesssteuerung und -optimierung in der Fertigung geschaffen.</description>
+    </item>
+    <item>
+      <title>Evaluation von Remote-Wartungssystemen für Frachtschiffe unter eingeschränkten Netzwerkbedingungen</title>
+      <link>//localhost:1313/success_stories/remote-wartungsysteme/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/success_stories/remote-wartungsysteme/</guid>
+      <description>Durch die Evaluation von CAP und XMReality konnten Lösungen für die Remote-Wartung identifiziert werden, die technisch weniger versierte Personen mit ortsunabhängigen Experten verbinden. Die Lösungen wurden speziell auf ihre Effizienz unter langsamen und instabilen Internetverbindungen auf Schiffen getestet.</description>
     </item>
   </channel>
 </rss>

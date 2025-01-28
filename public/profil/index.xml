@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Profil on Stigler AI Innovations</title>
+<<<<<<< HEAD
     <link>uild/profil/</link>
     <description>Recent content in Profil on Stigler AI Innovations</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <atom:link href="uild/profil/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>//localhost:1313/profil/</link>
+    <description>Recent content in Profil on Stigler AI Innovations</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="//localhost:1313/profil/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> dev
   </channel>
 </rss>

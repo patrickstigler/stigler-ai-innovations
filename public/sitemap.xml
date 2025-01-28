@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>uild/services/innovationsmanagement/</loc>
     <lastmod>2025-01-10T12:33:46+10:00</lastmod>
   </url><url>
@@ -38,5 +39,61 @@
     <loc>uild/profil/</loc>
   </url><url>
     <loc>uild/tags/</loc>
+=======
+    <loc>//localhost:1313/services/innovationsmanagement/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/services/technologieintegration/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/services/workflow-optimierung/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/services/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-01-10T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
+    <lastmod>2024-10-22T17:01:34+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/simulations_cluster/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/low_code/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/lora_wan/</loc>
+    <lastmod>2021-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/optimierung_bestandmanagement/</loc>
+    <lastmod>2021-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/innovation_lab/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/hololens_challange/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/shopfloor_visualisierungssystem/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/success_stories/remote-wartungsysteme/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/impressum/</loc>
+  </url><url>
+    <loc>//localhost:1313/404/</loc>
+  </url><url>
+    <loc>//localhost:1313/profil/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+>>>>>>> dev
   </url>
 </urlset>
